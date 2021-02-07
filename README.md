@@ -1,8 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my website! (ibadaprojects.wtf)
-- 🌱 I’m currently learning Javascript, CSS, Python
-- 👯 I’m looking to collaborate on anything!
-- 🤔 I’m looking for help with C# and OOP
+this is a joke i'm depressed
 <!--
 **zazu7765/zazu7765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
