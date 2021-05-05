@@ -1,8 +1,8 @@
 ### Hi there 👋
 my latest projects:
-*[number-guesser](https://github.com/zazu7765/number-guesser)
-*[staticsite](https://github.com/zazu7765/staticsite)
-*[statspython](https://github.com/zazu7765/statspython)
+-[number-guesser](https://github.com/zazu7765/number-guesser)  
+-[staticsite](https://github.com/zazu7765/staticsite)  
+-[statspython](https://github.com/zazu7765/statspython)  
 
 my latest failure:
 [noServerSlackBot](https://github.com/zazu7765/noServerSlackBot)  
