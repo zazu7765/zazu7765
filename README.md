@@ -1,5 +1,5 @@
 ### Hi there 👋
-my [repl.it](https://replit.com/@zazu7765)->
+my [repl.it](https://replit.com/@zazu7765)->  
 my latest projects:  
 -[number-guesser](https://github.com/zazu7765/number-guesser)  
 -[staticsite](https://github.com/zazu7765/staticsite)  
