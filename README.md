@@ -8,7 +8,9 @@ my latest projects:
 
 my latest failure:
 [noServerSlackBot](https://github.com/zazu7765/noServerSlackBot)  
-^this one went wild because slack doesn't support interactivity on socket mode so can we get an f in the chat
+^this one went wild because slack doesn't support interactivity on socket mode so can we get an f in the chat  
+current project:  
+[craftsforcharity_slackbot](https://github.com/zazu7765/craftsforcharity_slackbot)  
 <!--
 **zazu7765/zazu7765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
