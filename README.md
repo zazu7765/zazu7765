@@ -1,7 +1,7 @@
 ### Hi there 👋
 my [repl.it](https://replit.com/@zazu7765)->  
 my latest projects:  
--[cc_checker_proj](https://github.com/zazu7765/cc_checker_proj)  
+-[!cc_checker_proj](https://github.com/zazu7765/cc_checker_proj)  
 -[number-guesser](https://github.com/zazu7765/number-guesser)  
 -[staticsite](https://github.com/zazu7765/staticsite)  
 -[statspython](https://github.com/zazu7765/statspython)  
