@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Wakatime stats:
+## weekly development breakdown:
 <!--START_SECTION:waka-->
 ```text
 HTML       21 mins         ███████████░░░░░░░░░░░░░░   44.39 % 
