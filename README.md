@@ -2,7 +2,10 @@
 ## Wakatime stats:
 <!--START_SECTION:waka-->
 ```text
-JSON   5 mins          █████████████████████████   100.00 % 
+HTML       21 mins         ███████████░░░░░░░░░░░░░░   44.39 % 
+CSS        13 mins         ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Markdown   6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JSON       5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 ```
 <!--END_SECTION:waka-->
 
