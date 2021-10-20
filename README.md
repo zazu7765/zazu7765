@@ -2,11 +2,11 @@
 ## weekly development breakdown:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 41 mins   ████████████████████▓░░░░   82.92 % 
-JSON         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-YAML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JavaScript   4 hrs 53 mins   ████████████████████▓░░░░   82.47 % 
+JSON         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+YAML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 <!--END_SECTION:waka-->
 
