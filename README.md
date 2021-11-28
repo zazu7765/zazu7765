@@ -2,8 +2,7 @@
 ## weekly development breakdown:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 10 mins    █████████████████████▓░░░   86.21 % 
-HTML         11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+JavaScript   1 hr 10 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
