@@ -2,7 +2,7 @@
 ## weekly development breakdown:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   30 mins         ████████████████████████▓   98.99 % 
 ```
 <!--END_SECTION:waka-->
 
