@@ -1,11 +1,4 @@
-### Hi there 👋
-## weekly development breakdown:
-<!--START_SECTION:waka-->
-```text
-JavaScript   9 mins          ████████████████████▓░░░░   83.14 % 
-JSON         1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.86 % 
-```
-<!--END_SECTION:waka-->
+### just a student
 
 <!--
 **zazu7765/zazu7765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
