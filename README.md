@@ -1,7 +1,7 @@
 ### i make things that already exist 
 and then i learn how to do them properly
 
-current languages: [rust, go, c++, js/ts, java, python]
+current languages: [rust, go, c, c++, js/ts, java, python]
 
 <!--
 **zazu7765/zazu7765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
