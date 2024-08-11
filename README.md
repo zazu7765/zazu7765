@@ -11,7 +11,7 @@ projects
 - dotfiles config (never-ending struggle of consistent tooling across Win/Mac/Linux)
 - proper website (showcase and whatnot)
 - blog (actually record thoughts)
-- volunteering at [Metropolitan Aerospace and Combustion Hub](https://www.mach-tmu.space) 
+
 
 
 programming and whatnot
@@ -28,6 +28,7 @@ Languages I'm looking to learn:
 - Lua (scripting)
 - makefiles
 - Kotlin (later)
+- Zig (current)
 
 Languages I've tried:
 - Rust
