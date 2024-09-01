@@ -1,8 +1,4 @@
-undergraduate student at toronto metropolitan university (3rd year as of Fall 2024)
-
-**learning** databases, flow, and warehousing  
-also gRPC and serialization protocols in golang
-
+undergraduate student at toronto metropolitan university (3rd Year)
 
 lifelong sql learner (postgres)
 
@@ -12,11 +8,8 @@ projects
 - proper website (showcase and whatnot)
 - blog (actually record thoughts)
 
-
-
-programming and whatnot
----
 Languages:
+---
 - Go *(lang)*
 - C++
 - C
@@ -24,11 +17,11 @@ Languages:
 - Python
 - Java
 
-Languages I'm looking to learn:
-- Lua (scripting)
-- makefiles
-- Kotlin (later)
-- Zig (current)
+Languages to learn:
+- Lua
+- clojure
+- Kotlin
+- Zig
 
 Languages I've tried:
 - Rust
@@ -39,11 +32,9 @@ Languages I've tried:
 - Perl *(scripting)*
 - C# / Unity
 
-i like asciidoc over latex and markdown, i just wish it had more acceptance.
 
 random recent events
 ---
-recently found out gpg key signing gives you fancy blue verified button on github commits
 
 my website: [skillissue.cc](https://skillissue.cc)
 i am looking for a new domain name but unsure of what to get
