@@ -1,42 +1,11 @@
-undergraduate student at toronto metropolitan university (3rd Year)
+undergraduate student at toronto metropolitan university (3rd Year).
 
-lifelong sql learner (postgres)
+I work primarily in [Go](https://go.dev/), and have a mild interest in Rust.  
+I've done projects in Python, TypeScript, and Java.
 
-projects
+news
 ---
-- dotfiles config (never-ending struggle of consistent tooling across Win/Mac/Linux)
-- proper website (showcase and whatnot)
-- blog (actually record thoughts)
-
-Languages:
----
-- Go *(lang)*
-- C++
-- C
-- JavaScript / TypeScript
-- Python
-- Java
-
-Languages to learn:
-- Lua
-- clojure
-- Kotlin
-- Zig
-
-Languages I've tried:
-- Rust
-- Elixir
-- Haskell
-- PHP
-- Bash *(scripting)*
-- Perl *(scripting)*
-- C# / Unity
-
-
-random recent events
----
-
-my website: [skillissue.cc](https://skillissue.cc)
+my blog: [skillissue.cc](https://skillissue.cc)
 i am looking for a new domain name but unsure of what to get
 <!--
 **zazu7765/zazu7765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
