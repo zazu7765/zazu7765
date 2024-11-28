@@ -1,7 +1,7 @@
 undergraduate student at toronto metropolitan university (3rd Year).
 
 I work primarily in [Go](https://go.dev/), and have a mild interest in Rust.  
-I've done projects in Python, TypeScript, and Java.
+I've done projects in C++, Python, TypeScript, and Java.
 
 news
 ---
