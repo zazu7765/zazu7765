@@ -1,12 +1,6 @@
-undergraduate student at toronto metropolitan university (3rd Year).
+undergraduate student at toronto metropolitan university (Final Year as of September 2025).
 
-I work primarily in [Go](https://go.dev/), and have a mild interest in Rust.  
-I've done projects in C++, Python, TypeScript, and Java.
-
-news
----
-my blog: [skillissue.cc](https://skillissue.cc)
-i am looking for a new domain name but unsure of what to get
+📫 dibanescu_at_torontomu_dot_ca
 <!--
 **zazu7765/zazu7765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
